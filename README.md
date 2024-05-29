@@ -4,7 +4,7 @@
 Breakout Guia
 
 ## Integrantes
-Gabriel Faria e Gabriele Batista Sousa
+Gabriel Faria e Pedro Ferraz
 
 ## Descrição
 Essa é uma atividade feita pela orientadora Aline firmino com o objetivo de criar um prototipo de um aplicativo mobile sobre o jogo Breakout.
