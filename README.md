@@ -12,3 +12,4 @@ Essa é uma atividade feita pela orientadora Aline firmino com o objetivo de cri
 ## Wiki
 - <a href="https://github.com/Gabriele-sousa/prototipos.elementos/wiki/Sobre-o-jogo"> Sobre o jogo </a>
 - <a href="https://github.com/Gabriele-sousa/prototipos.elementos/wiki/Protótipo"> Prótotipo do aplicativo </a>
+- <a href="https://github.com/GabrielFaria-cyber/prototipos.elementos.wiki.git> Scripts </a>
